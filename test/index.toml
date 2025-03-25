@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless-building.pw.toml"
-hash = "fc90107a8ba7d443f4e38c2b46743a54bb02596bf076d1de6889eb4d62e5a255"
+hash = "cdcd6dd4ac10573c18f1d48a3ab1f07c5d9a8efdfada57356e8293b054e0610b"
 metafile = true
 
 [[files]]
