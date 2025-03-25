@@ -41,11 +41,6 @@ hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
-hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/icon-xaeros.pw.toml"
 hash = "a8834e7aa0c6fea1615c05e1d43f84540ff0b1e2282c2cea93261baee7f9460f"
 metafile = true
@@ -228,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
-metafile = true
-
-[[files]]
-file = "mods/citreforged.pw.toml"
-hash = "ccc0aea2b6fd6a99829f213bc91eed50f94fa4370c8db41fec9b7aba107316db"
 metafile = true
 
 [[files]]
