@@ -151,6 +151,11 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
+file = "mods/backported-wolves.pw.toml"
+hash = "04a90c150819dafcb0886bc642b2f88fcff9b987008443be74b1293541e0aade"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d8d22367eea5e6bbd1971fd029c88e5c25faaf088f278b17e0cce952088b1ff2"
 metafile = true
@@ -258,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+metafile = true
+
+[[files]]
+file = "mods/controllermod.pw.toml"
+hash = "4b694863928a388e1d730f1d03e1da3ca05e1fb0b5bea40ed071a4eb101c957d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
@@ -431,6 +446,11 @@ hash = "44711bff6dc6f6753a3f1403647ce9b5dcedd31440d6e01d1260176650df3140"
 metafile = true
 
 [[files]]
+file = "mods/earth2java.pw.toml"
+hash = "ae8d52caa1d63689e044393d2abe63a0aea952215c508a4436f5bec7b0e691f6"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -523,6 +543,16 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+hash = "d597ef73788e084811610312534e59b6f9c145c9da9b9b59e5d501bf1a4f4253"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "b4cc5af31198cd0c308a18a8f6af3e98551a8632e75ae719d54e4c0455d5bd7e"
 metafile = true
 
 [[files]]
@@ -721,6 +751,11 @@ hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
 metafile = true
 
 [[files]]
+file = "mods/motor-assistance.pw.toml"
+hash = "70c3eebee5b355f33fc7db3c694c52ea9e99c3422bb05c0a2891125065241790"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -818,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
@@ -923,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "d69038039187d8d438e01f3bc1df7078115f4ce8b41d96e325d7df4fac47514e"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "3b6b8c600b582f2d9aab2e281e4678908bbd1e7bf9dc94edbac1da4f1b81a0ba"
 metafile = true
 
 [[files]]
