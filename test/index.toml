@@ -106,6 +106,11 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "301eae1324c4754b99c18b249276c162dd2d236784207fc379709bfd7e8e3a78"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/bop-rose-quartz-create-mod-compat.pw.toml"
 hash = "946354cdc37b9d01a0650398d9dc1f33b3df28a4cd78cbdc133ce6b8f921eef5"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
@@ -441,6 +451,11 @@ hash = "24fd39b924fe2d5f210698dccca7e4fed2ecdba623f9892363b0047fbbb0883e"
 metafile = true
 
 [[files]]
+file = "mods/createstuffadditions-fix.pw.toml"
+hash = "12b4eb7a04992a47cf232639ac015e7e1f984a185d826e948943e9e43098ec80"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "605f7351ee4f4cec0f33ac6693e08c004d13ddf383af74fe1c5a8877ad92a805"
 metafile = true
@@ -458,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
@@ -541,6 +561,21 @@ hash = "170a341c0cfc02b56374f1a2c4391e89a6705a8636b3ba6712e6cd13d786a35f"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "e0681686dcef24bec419925c5a58b2fbe54e5a1dbad2709f9fc3a482761d02fa"
 metafile = true
@@ -553,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "b56e4dc7469ddc27f6b881573fe6761b3a7b3070fb94b3228b12968e0f7dfec0"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
@@ -576,6 +616,11 @@ hash = "23a04210d34ea538f7a1db8a2b8abcb929e683632a1bb0c9ed838af9cd93d0dd"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "177cb4158c5b7f5d3f49b15f102d97171b97ca7045b7e18c6d93fbdfc46c5b8b"
 metafile = true
@@ -591,8 +636,18 @@ hash = "f673f79956cbb8366289f104c7366d0ecf0bb25c68fd8354449defcec64b0612"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
 file = "mods/flansmod.pw.toml"
 hash = "b11d5d9dac96572965e6cd7f9f55ac0248c737a5d9e7be0a5ec8fffabe7f913c"
+metafile = true
+
+[[files]]
+file = "mods/forgeskyboxes.pw.toml"
+hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
 metafile = true
 
 [[files]]
@@ -623,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "8d35f006b0722af5bf1f3105cc1e9928f7ce6610b9653231dcd6a4f228322873"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
 metafile = true
 
 [[files]]
@@ -701,6 +761,16 @@ hash = "dc5120c1a6e91cd9c3ffd93190e3e093d1013ee5f55c6a3feb64d9f43f5f14fd"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "03c55a1cbe4e547abba255cd02d157cb0ce3f8b782daa33797048061751b0f55"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
@@ -713,6 +783,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
 metafile = true
 
 [[files]]
@@ -786,6 +866,11 @@ hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
+metafile = true
+
+[[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
 hash = "c267d39e15eee2203a0773569d9dbc28fab80b764cc60119cfe30a650e954fd7"
 metafile = true
@@ -808,6 +893,16 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "5bd6d893837ea9861661f26bfbae00ea00b6808d164545e0ca1b389fc59cbe4e"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "370cc7013d4161ac19543d08d386376a979a4a6a0b016f6c76cd391784ba0634"
 metafile = true
 
 [[files]]
@@ -851,6 +946,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "bb894d5c9fb12a1cbe6f6af8169c8e0178d1028883aba789598c0a78241026c9"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
@@ -881,11 +981,6 @@ hash = "dfe98fff6f1b53ea6cf1a6ba29b41fa0d9794a619be4aea50cc6cdd8c1147557"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
 file = "mods/ram-compat.pw.toml"
 hash = "79520a17ae356d0d5f993bd1c5826d386813c6a957a4dc3a0693fdd7bf769ca5"
 metafile = true
@@ -903,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 metafile = true
 
 [[files]]
@@ -1018,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "805bfb01c8db493d4b3a6d5efc5952756a6cb8e9251b64d6001be1a727b6b3d7"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
 
 [[files]]
