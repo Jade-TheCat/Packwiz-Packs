@@ -51,6 +51,10 @@ hash = "29a7b3eb5b9bfd6ddaa5efd808dcbe4c0eb1428b57f03cd700fcadd1c552edfb"
 metafile = true
 
 [[files]]
+file = "config/recipeessentials.json"
+hash = "4c9418b330985ebe913236da43dfa461a00519187cfbd04d868a6737b038db4f"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "e0fdab26fb71b001ede240f9d01cf882acd266b5fc4edf90bb881e182c311697"
 metafile = true
@@ -321,6 +325,11 @@ hash = "3b61e61cf12729af4c335f7dc893b4c37e6b0675c548cede0fd2e6812a32b1dd"
 metafile = true
 
 [[files]]
+file = "mods/crafting-station-jei-edition.pw.toml"
+hash = "00f524442a56e3c431173cb6f9c98047e30ebc631759ab9fdc12d160ddb06eaf"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "6a07c5b47f1a9e875ea4fd35c9a76bd0abe44de50c1095b3ed985d47be5507cf"
 metafile = true
@@ -481,6 +490,11 @@ hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "ae7e985d599a9b040c73ff1a008b7801930e2f4382d74cbbe90feb967db8c8ce"
 metafile = true
@@ -616,8 +630,18 @@ hash = "23a04210d34ea538f7a1db8a2b8abcb929e683632a1bb0c9ed838af9cd93d0dd"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
@@ -1133,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]
