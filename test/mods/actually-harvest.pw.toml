@@ -1,0 +1,13 @@
+name = "Actually Harvest"
+filename = "actuallyharvest-1.20.1-1.1.2.1-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/wmHaqEq1/actuallyharvest-1.20.1-1.1.2.1-FORGE.jar"
+hash-format = "sha512"
+hash = "38c795758766514b25d02d1cc5baa7f847e06f531e57f79e8909efd953bf059df10767e35c6db03305334803c25daf81c10a92e44d47c88768d8be8d8eef88be"
+
+[update]
+[update.modrinth]
+mod-id = "sUbuUC7R"
+version = "wmHaqEq1"

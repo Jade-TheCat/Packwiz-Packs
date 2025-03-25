@@ -51,6 +51,11 @@ hash = "29a7b3eb5b9bfd6ddaa5efd808dcbe4c0eb1428b57f03cd700fcadd1c552edfb"
 metafile = true
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "e0fdab26fb71b001ede240f9d01cf882acd266b5fc4edf90bb881e182c311697"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "b0a06e7fb99cceab61313fce41ed48059aca7b86423bff086034bd69b01af92d"
 metafile = true
