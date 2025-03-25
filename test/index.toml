@@ -166,6 +166,11 @@ hash = "262483c4f54a8171396664e16917c2d2f9145db7f9052fac99aebfb53b40e3cb"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
@@ -256,6 +261,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
@@ -288,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "2512c5a1f17499f5db342eea6811ad3f1888d05e4fb8ba56ffbc6348cb75da07"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "3b61e61cf12729af4c335f7dc893b4c37e6b0675c548cede0fd2e6812a32b1dd"
 metafile = true
 
 [[files]]
@@ -431,13 +446,18 @@ hash = "0bb8aa9f70f4401baade73b95f4d4412ca70ae1d5cb9667b314de3d15ed5ccd0"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
 metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "2819618e49ef1b5f986455d8ba1ca6617202f69f943eed281928dfc50c4a22a1"
+hash = "ae7e985d599a9b040c73ff1a008b7801930e2f4382d74cbbe90feb967db8c8ce"
 metafile = true
 
 [[files]]
@@ -543,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "23a04210d34ea538f7a1db8a2b8abcb929e683632a1bb0c9ed838af9cd93d0dd"
 metafile = true
 
 [[files]]
@@ -726,6 +751,11 @@ hash = "8ec249c1e2aaac6bf623263036059908f66769ca70e90dd854de483424cedd0a"
 metafile = true
 
 [[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "c0e6a14f6320209bd493d8591589be7db82c32d054fcc114d7b0081956ad27c1"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "b178d1d5ea81149a287303b595405af33d0ec73047bd9a3ff79ca5715c8d4578"
 metafile = true
@@ -861,6 +891,11 @@ hash = "79520a17ae356d0d5f993bd1c5826d386813c6a957a4dc3a0693fdd7bf769ca5"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ce0fde07ed8f70f9eb4f17e0fbc6002c47e2b11be54e3633d0a5c82ce043e9de"
 metafile = true
@@ -873,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
 metafile = true
 
 [[files]]
@@ -893,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
@@ -943,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "273bc0ded86ee0e6b4639a37f7a66e2e141c5453ca3efc79cf319dcef6dc9552"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "2606444bc5f28bbecfaa7afdf916529955e4c2668a601602866ab374c4f2f792"
 metafile = true
 
 [[files]]
