@@ -890,11 +890,6 @@ hash = "456ad967ee762995622df5bb58aac50f69e7101dfd7001e29f5675c0289a5afe"
 metafile = true
 
 [[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
-metafile = true
-
-[[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
 hash = "c267d39e15eee2203a0773569d9dbc28fab80b764cc60119cfe30a650e954fd7"
 metafile = true
