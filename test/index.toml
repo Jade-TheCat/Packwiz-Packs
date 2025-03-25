@@ -56,6 +56,11 @@ hash = "b0a06e7fb99cceab61313fce41ed48059aca7b86423bff086034bd69b01af92d"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
+metafile = true
+
+[[files]]
 file = "mods/aether-protect-your-moa.pw.toml"
 hash = "674a62706fa6f05d690c173f5199a591fef1a1a2b2d62668cd1bf70b4c530eb3"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "f0a3b2a75840024a3dfc03dc073b20e61aa41cf939cef2698308029a5f870c35"
 metafile = true
 
 [[files]]
@@ -436,43 +446,13 @@ hash = "e4a65e6e67523dab2e57e6070f8089bacda68bf39bc68c9afd264c115421066d"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "fc90107a8ba7d443f4e38c2b46743a54bb02596bf076d1de6889eb4d62e5a255"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
-file = "mods/emi-create-schematics.pw.toml"
-hash = "92f6f339f84a5a6f8afb382620f7da0a01da4cba3a2e894115a1d6b36dcc2344"
-metafile = true
-
-[[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "7bc23290ff3d04851f1ccb2559e6a356cc75b35ac56e10fed4da7b0698772cb9"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "e9ccf08a957929191c329f759b2a4556da763b8a6cd8865f5287e558bd1ef0fd"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
@@ -611,6 +591,11 @@ hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "120be2bee17effa9c285cdacd8b5f74b24049c66a24fada1d4ec616e7bbc2f49"
 metafile = true
@@ -633,6 +618,31 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
 metafile = true
 
 [[files]]
@@ -731,8 +741,13 @@ hash = "ce93bbe7e3a987e8a12dd064795e6851254b22f42494fdae6ed2b54ba3a4ccb9"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+file = "mods/nyctophobia.pw.toml"
+hash = "f65f1ef6d66ab0961d80ac101507e0da78d1d6399fd73ee1f23df560736f18cd"
+metafile = true
+
+[[files]]
+file = "mods/occult-engineering.pw.toml"
+hash = "bf0eb7d589cf7ea599444f0922dbeee7c56f32ebaac0cef0b4ef28b54df3c1cc"
 metafile = true
 
 [[files]]
@@ -856,6 +871,11 @@ hash = "08f1189104d65201360a37afe81e393fc52d6c49bc9900486b85580c4e228e5c"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "b773c0b508ff3029a27062fd26df96778f4ded8087327b208f5b986d11ea881e"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "8031d3e365b248d52e3a6a9df743baf34e4e9da383fe527aace2843350c25050"
 metafile = true
@@ -903,6 +923,26 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "d69038039187d8d438e01f3bc1df7078115f4ce8b41d96e325d7df4fac47514e"
+metafile = true
+
+[[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "55b8174e31851a657aab1527ef824caf248171c7f1b1734bdabdd6affbde223b"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "7dbcf96055074145dee5398deda1c48ca902302eb773539b33cddf64c442335a"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "7975a423fee3c103ff44069da15c59aeb391d0cded8e91e0b1ee7da7a1c5a3d2"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "83182dcb7e4463e5e2ceefa544e3a6d0b427e4637d5bef613a632bed39731c0d"
 metafile = true
 
 [[files]]
@@ -961,11 +1001,6 @@ hash = "3b896ddf7389ad7d403b354cd94966c65f4989c9675ec245681b5c78d5208317"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "d9e05e164bb61c2bcecc58702c46e59c2721928a3b355050d1e84736d74fe6fc"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "ad5edce3b2c6d7eb7a260f4b712ef43583eec3a5e83638fd44f11e6d583e7366"
 metafile = true
@@ -983,11 +1018,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "49e2bdc9e40c50894dff3013463f5236e7d40c8df3db6ece0a81c00f7c34de48"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
 metafile = true
 
 [[files]]
