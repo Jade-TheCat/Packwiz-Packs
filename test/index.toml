@@ -576,11 +576,6 @@ hash = "23a04210d34ea538f7a1db8a2b8abcb929e683632a1bb0c9ed838af9cd93d0dd"
 metafile = true
 
 [[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "9ad87dc16bd54875df670cc66b0287be5a56f872c4a2c53086351cef54d5fd61"
-metafile = true
-
-[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "177cb4158c5b7f5d3f49b15f102d97171b97ca7045b7e18c6d93fbdfc46c5b8b"
 metafile = true
