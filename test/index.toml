@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/occult-engineering.pw.toml"
-hash = "bf0eb7d589cf7ea599444f0922dbeee7c56f32ebaac0cef0b4ef28b54df3c1cc"
+hash = "68d3bb596d8ae739cbe27d78a76a41b38f1798420d89e818fc60029b3f6a930b"
 metafile = true
 
 [[files]]
