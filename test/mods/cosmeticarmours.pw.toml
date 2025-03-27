@@ -1,0 +1,13 @@
+name = "CosmeticArmours"
+filename = "CosmeticArmours - 1.5.1.0 - 1.20.1 - Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3JIzTFR/versions/byoFvhEJ/CosmeticArmours%20-%201.5.1.0%20-%201.20.1%20-%20Forge.jar"
+hash-format = "sha512"
+hash = "fd091b584bb8d95836b0e20bd67a448136792a1a740cde3317b80d515807cd7e7a624f0e00db840e49b14c1faad6f7e52f110b6aa804f7e8f32bb4312c624468"
+
+[update]
+[update.modrinth]
+mod-id = "H3JIzTFR"
+version = "byoFvhEJ"

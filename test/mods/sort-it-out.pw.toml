@@ -1,0 +1,13 @@
+name = "Sort It Out!"
+filename = "sort_it_out-forge-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/J7zQ0Q2N/sort_it_out-forge-1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "9b8f297aa67aef802d622121c025989903d3bb8ae4f06d20b6793a4968c0cc7c08bbf91c80e7f8663fecdf7db00aac69743262628949eecd2a86f725561e3de0"
+
+[update]
+[update.modrinth]
+mod-id = "jcOSOvm1"
+version = "J7zQ0Q2N"

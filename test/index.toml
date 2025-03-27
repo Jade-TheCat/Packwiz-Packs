@@ -320,6 +320,16 @@ hash = "2512c5a1f17499f5db342eea6811ad3f1888d05e4fb8ba56ffbc6348cb75da07"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "be99bb824cbf0ee18df02411fd62df28dc87b948fbd184c7a4a36f339f061c86"
+metafile = true
+
+[[files]]
 file = "mods/crabbers-delight.pw.toml"
 hash = "3b61e61cf12729af4c335f7dc893b4c37e6b0675c548cede0fd2e6812a32b1dd"
 metafile = true
@@ -397,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/create-metalwork.pw.toml"
 hash = "1450dbde9f1edd0babec78b2240c0ade0e2971beddd58a7a9c1a5605637a4b89"
+metafile = true
+
+[[files]]
+file = "mods/create-mod-trims.pw.toml"
+hash = "598af112d247563245d5638a384c711eb8d6f19d2281da119aca3a82a313a609"
 metafile = true
 
 [[files]]
@@ -790,6 +805,11 @@ hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "7dccbe630406fce16bffde2e0598de10effb7bc62628a78b1ffeb0aaa21f6cf7"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
@@ -1060,6 +1080,11 @@ hash = "b73a4541a27e80fdf94d7e91f584c78d1882b4963726fda96b1ae99677122318"
 metafile = true
 
 [[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "fb940fcc3c0739ace20f14fe04bfc55497866a16680430d2b55f45750141ba85"
+metafile = true
+
+[[files]]
 file = "mods/spartan-shields.pw.toml"
 hash = "031ac3ccf10d474da8a854c8fe2490e81d4f514505c638e334ac06939bd13635"
 metafile = true
@@ -1142,6 +1167,16 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "f2e9eff771885cad7c21f8e0f9b239c57d424a4784988611a43a200d1feaa7f2"
+metafile = true
+
+[[files]]
+file = "mods/trims-expanded.pw.toml"
+hash = "e200369250d329f23c3a9980e0596c9706cd1a477cbce9222dde41dea205f07b"
 metafile = true
 
 [[files]]
